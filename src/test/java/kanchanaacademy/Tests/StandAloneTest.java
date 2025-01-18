@@ -20,6 +20,7 @@ public class StandAloneTest
 
 	public static void main(String[] args)
 	{
+		//new comment are added
 		String web = "https://rahulshettyacademy.com/client";
 		String productName = "qwerty";
 		WebDriverManager.chromedriver().setup();
